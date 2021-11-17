@@ -1,0 +1,22 @@
+{
+  "name": "cypress-request",
+  "version": "1.0.0",
+  "description": "Sample project to debug request issue using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nav-2d/cypress-request.git"
+  },
+  "author": "nav-2d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nav-2d/cypress-request/issues"
+  },
+  "homepage": "https://github.com/Nav-2d/cypress-request#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
